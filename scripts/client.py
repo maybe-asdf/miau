@@ -10,11 +10,11 @@ from prompt_toolkit import PromptSession
 
 ver = "v000004"
 print(fr"""
-      __                               
- ____/ /  ___ ____ ____ ___  __ ____ __
-/ __/ _ \/ _ `/ _ `(_-</ _ \/ // /\ \ /
-\__/_//_/\_,_/\_,_/___/_//_/\_, //_\_\ 
-      {ver} client         /___/       
+        _           
+  _ __ (_)__ _ _  _ 
+ | '  \| / _` | || |
+ |_|_|_|_\__,_|\_,_|
+   {ver} client                          
       """)
 
 async def send_loop(websocket, username, session):
