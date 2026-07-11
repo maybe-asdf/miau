@@ -1,1 +1,1 @@
-["{\"sender\": \"cip\", \"content\": \"heja\"}", {"sender": "cip", "content": "heja"}, "{\"sender\": \"cip\", \"content\": \"kpue zrobilem\"}", {"sender": "cip", "content": "kpue zrobilem"}]
+[{"sender": "admin_user", "content": "hello"}]

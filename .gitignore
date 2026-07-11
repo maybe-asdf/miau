@@ -1,0 +1,7 @@
+server_history.toml
+server.toml
+venv/
+cert.pem
+key.pem
+server_history.txt
+users.json

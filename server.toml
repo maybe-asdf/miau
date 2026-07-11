@@ -1,10 +1,10 @@
-[roles]
-admin = ["maybeasdf"]
-mod = ["maybeasdf"]
-
 [chat_history]
 enabled = true
 limit = 250
 persist = true
 # don't increase the limit too much otherwise client may struggle to load
 # server is going to save chat history in memory anyways if chat history is disabled, just wont send.
+
+[webui]
+port = 0
+# BROKEN
